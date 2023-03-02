@@ -1,0 +1,22 @@
+# ninja log v5
+1	97	6932560944881651	CMakeFiles/helloworld2.elf.dir/Core/Src/main.c.obj	b983082fc7837755
+68	249	6932536161938967	CMakeFiles/helloworld2.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj	8c8748af4764dae8
+11	172	6932536161251265	CMakeFiles/helloworld2.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj	ad1c93839ac222b
+58	238	6932536161759560	CMakeFiles/helloworld2.elf.dir/Core/Src/sysmem.c.obj	3a55a2bcc2054955
+20	188	6932536161390790	CMakeFiles/helloworld2.elf.dir/Core/Src/stm32f1xx_it.c.obj	2712b8322694a9c7
+29	202	6932536161779497	CMakeFiles/helloworld2.elf.dir/Core/Src/syscalls.c.obj	5336210707474b
+38	214	6932536161719702	CMakeFiles/helloworld2.elf.dir/Core/Src/system_stm32f1xx.c.obj	652480d63a24d0ff
+48	227	6932536161500424	CMakeFiles/helloworld2.elf.dir/Core/Startup/startup_stm32f103c8tx.s.obj	d1693068cf291086
+98	258	6932560945938086	helloworld2.elf	a73218f92f875add
+161	286	6932536162875848	CMakeFiles/helloworld2.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj	b51c37778258e594
+80	261	6932536162327670	CMakeFiles/helloworld2.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj	1e414417ee496eba
+142	312	6932536163134985	CMakeFiles/helloworld2.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj	9a25596e599c27ee
+172	308	6932536163105084	CMakeFiles/helloworld2.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj	39de08dc6d2e4403
+93	262	6932536162267874	CMakeFiles/helloworld2.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj	d5c0b1ab2994ca54
+106	262	6932536162596779	CMakeFiles/helloworld2.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj	f8a0134a6c01149b
+189	338	6932536163404121	CMakeFiles/helloworld2.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj	a80fd813668f2423
+214	331	6932536163334321	CMakeFiles/helloworld2.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj	af3c9749ab38ffce
+203	314	6932536163164885	CMakeFiles/helloworld2.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj	febcf1ea7e642fc0
+249	349	6932536163513723	CMakeFiles/helloworld2.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj	1f1e5db6cc48a719
+227	371	6932536163730157	CMakeFiles/helloworld2.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj	68750537bb0508ed
+238	340	6932536163424023	CMakeFiles/helloworld2.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj	5cc7b795813e0fb9

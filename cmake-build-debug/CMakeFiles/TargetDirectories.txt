@@ -1,0 +1,3 @@
+C:/Users/Ukua/CLionProjects/STM32/helloworld2/cmake-build-debug/CMakeFiles/helloworld2.elf.dir
+C:/Users/Ukua/CLionProjects/STM32/helloworld2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Ukua/CLionProjects/STM32/helloworld2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
